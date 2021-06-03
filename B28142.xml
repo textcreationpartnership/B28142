@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Plaine case, or, Reasons to convince any that would be honest or thrive in the world which side to take in this present warre</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28142</idno><idno type="EEBO-CITATION">12009248</idno>
+  <idno type="VID">196819</idno>
+  <idno type="EEBO-PROQUEST">2240899607</idno>
+  
+            <idno type="STC">Wing P2347</idno>
+            <idno type="OCLC">12009248</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 238:E56, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Plaine case, or, Reasons to convince any that would be honest or thrive in the world which side to take in this present warre</title>
+               </titleStmt>
+               <extent>[1], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A pamphlet in favor of the Royalist party.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Royalists --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196819:1"/>
+            <p>A PLAINE CASE, OR, REASONS TO CON<g ref="char:EOLhyphen"/>VINCE ANY (THAT would be honest or thrive in the World) which side to take in this present WARRE.</p>
+            <p>
+               <hi>Printed in the Years</hi> M.DC.XLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196819:2"/>
+            <pb n="1" facs="tcp:196819:2"/>
+            <head>A Plaine Case, or, Reasons sufficient to convince any (that would be honest, or thrive in the World) which side to to take in this present Warre.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the two Hoses of Parliament will have the Sword give the Law; I make bold to set downe some plaine Arguments why the people of <hi>England,</hi> should wish victory rather unto His <hi>Majesty,</hi> then unto the <hi>two Houses.</hi> And although our supinenesse hath beene hitherto such, as to hazard the Go<g ref="char:EOLhyphen"/>vernment of Church &amp; State (under both which we and our Ancestours have been so long happy) for a new, so farre from being approved, as it is not yet knowne what they desire. Though this hath beene to this day not weighed by many (who looke not beyond the present hower) t'will concerne the people of <hi>England</hi> to consider what must necessarily fol<g ref="char:EOLhyphen"/>low this warre.</p>
+            <p n="1">1. If the <hi>two Houses</hi> overcome the King, then is the King<g ref="char:EOLhyphen"/>dome liable unto all <hi>their</hi> debts upon the <hi>publicke faith,</hi> which
+<pb n="2" facs="tcp:196819:3"/>amounts unto more then Three Millions; This will be the first benefit such a victory can bring the people, to ingage them in a debt, that no man can hope to live to see satisfied. But suppose one battle should not overthrow the King, and this warre should last many yeares, the three millions of debts before mentioned would grow to threescore; and then how long will the people be paying such a debt? for 'tis not to be imagined that the King &amp; his whole posterity can be rooted up without a long warre.</p>
+            <p n="2">2. Next I wish the people would consider, that they make themselves miserable for a few mens ambitions, and avarice, who have throwne the whole Kingdome into this confusion, saving their owne stakes by the masse of mony which is well knowne the cheife factours have conveyed away. For of the three millions received by the two Houses, not <hi>one</hi> hath been disbursed in this warre, as by themselves is confessed, and by some of best account amongst them complained of.</p>
+            <p n="3">3. If the King prosper (as tis very probable he may) having at this day three armies on foot, any of them able to encoun<g ref="char:EOLhyphen"/>ter the Earle of <hi>Essex</hi> in the field. I say it is considerable that the Kings debts are not a third part so great as the Parlia<g ref="char:EOLhyphen"/>ments, which cleerely shewes their abuse in those vast summs appropriated to their owne particular use; which money the people have not only payed against all Law and equity, but must be forced againe to repay as a debt of the <hi>publicke faith.</hi>
+            </p>
+            <p n="4">4. Consider that their armes, ammunition, ordnance, ships, and all accomodations for warre (to the value of a million more) were taken out of the Kings stores, and cost them no<g ref="char:EOLhyphen"/>thing. Thus I conceive the matter of mony (by which all men subsist) ought to incline the people to wish victory unto the King; although they have contributed to this Warre a<g ref="char:EOLhyphen"/>gainst him.</p>
+            <pb n="3" facs="tcp:196819:3"/>
+            <p n="5">5. The people ought to consider that the King hath no ge<g ref="char:EOLhyphen"/>nerall quarrell to them as by his daily clemency is seene, and by his generall profer of pardon unto those people, whom he conceives only guilty of being misled.</p>
+            <p n="6">6. If the King hath an absolute victory, this warre is at an end, and the Kingdome happy under its ancient Lawes and Religion, which the King never thought to alter, but if the Rebels conquer, who knowes what Lawes, or what Religion they will establish, that have destroyed all Lawes, and do pro<g ref="char:EOLhyphen"/>fesse no Religion.</p>
+            <p n="7">7 'Tis to be considered very many of those, who now assist the King in this warre have beene the most zealous for the li<g ref="char:EOLhyphen"/>berty of the people and Priviledges of Parliament, and are persons of highest quality, and greatest fortune, and therefore cannot be thought so indiscreete as to be the instruments to bring servitude upon themselves and others.</p>
+            <p n="8">8 The King doth now pretend to no power, but such as is established by law, &amp; maintained by constant practise; there<g ref="char:EOLhyphen"/>fore it is not probable he will endeavour to exercise any o<g ref="char:EOLhyphen"/>ther; because he must then evidently falsify many publicke protestations made to the contrary in divers declarations, and thereby justifie much of that the Parliament hath said against him.</p>
+            <p n="9">9 The Kings interests are of such a nature as cannot be re<g ref="char:EOLhyphen"/>stored, &amp; the distractions of the Kingdome are likewise such, as cannot be cured but by the authority of a Parliament: so that if the King were conqueror, he must necessarily resort to that way of Parliament in which he can never prejudice the interests of the Subjects; nor advance his own, beyond their due bounds.</p>
+            <p n="10">10 It cannot in common prudence be imagined that the King against whom so great advantage hath beene taken, for
+<pb n="4" facs="tcp:196819:4"/>some pretended preceedings from the law in his former government, and who hath parted with so much of his owne right, to satisfie all apprehensions of the like for the time to come, should againe resort to any course so destructive, and ruinous to himselfe.</p>
+            <p n="11">11 If the Parliament had sought the good of the subject and the peace and wealth of the Kingdome, why did they re<g ref="char:EOLhyphen"/>ject so many gracious proffers from His Majestie to settle whatever could be desired to make a nation happy? And what King did ever do more to shew how really he intended the just satisfaction of his people, by the maintenance of their Religion and lawes, then ours hath donne? and yet this Par<g ref="char:EOLhyphen"/>liament hath had power to mislead the people, from an assu<g ref="char:EOLhyphen"/>red happy tranquillity into this desperate irreligious warre, and to requite all the great immunities granted to them by the King; with a most pernitious rebellion against him, mak<g ref="char:EOLhyphen"/>ing the ignorant innocent people their instruments to com<g ref="char:EOLhyphen"/>passe their owne most horrid designe, for now they dare avow their intentiō to unthrone the King, subvert the monarchy, &amp; to supplant the Church, by crying up their severall sects in all Countries near them, displacing the grave, learned, Orthodox Divines, to make roome for Anabaptists, Brownists, and o<g ref="char:EOLhyphen"/>ther irreligious Sots, who they imploy to seduce the people, while themselves sit like absolute monarchs of the Land, dis<g ref="char:EOLhyphen"/>posing of the free subjects lives, and estates at pleasure, a Ty<g ref="char:EOLhyphen"/>ranny beyond the Turkish Emperour; and thus inforce the King to take up armes for the preservation of the lawes, and the interests of the people, who therefore is not like to endea<g ref="char:EOLunhyphen"/>vour the destruction of what he hath now protected with so much hazard to himselfe, and so much affection to his sub<g ref="char:EOLhyphen"/>jects: for if we consider how easily the King might have satis<g ref="char:EOLhyphen"/>fied the ambitions of the cheife Rebells, and by such meanes
+<pb n="5" facs="tcp:196819:4"/>have bought his owne desires, at a much easier rate by then this warre; we ought to pray for his good successe.</p>
+            <p n="12">12 It is evident that no lawlesse power, nor arbitrary go<g ref="char:EOLhyphen"/>vernment can be so safe, or so advantagious to the King, as that power is which the lawes of this Kingdome have con<g ref="char:EOLhyphen"/>ferr'd vpon the King, and trusted the Crowne withall.</p>
+            <p n="13">13. If the Rebels get the victory, the people will be perpe<g ref="char:EOLhyphen"/>tually subject to an arbitrary government for the liberty of their persons, and property of their estates; then all their Or<g ref="char:EOLhyphen"/>dinances will be as lawes, and all these taxes become conti<g ref="char:EOLhyphen"/>nued on the people: for the Parliament can have no other way to maintaine what they shall get by the sword, but by the sword. Let the people also consider, that this Parliament hath in these two years, more violated the lawes to the preju<g ref="char:EOLhyphen"/>dice of the people, then all the Kings since the conquest have don. How blind then are the people of this Kingdome to engage themselves in an endlesse warre, subject to such a ty<g ref="char:EOLhyphen"/>ranny, as no story can paralell, whose hoped victory can pro<g ref="char:EOLhyphen"/>cure them at best to be but slaves unto slaves, wilfully reject<g ref="char:EOLhyphen"/>ing the known happiest government that ever nation lived under, and this proferred to them by the King without more blood. But if their hearts be hardened, and they will rather chuse to have a <hi>perpetuall Parliament</hi> then their <hi>Prince,</hi> certain<g ref="char:EOLhyphen"/>ly the Plagues of a <hi>perpetuall warre</hi> will be their reward, so that as long as one of the Royall blood remaines on the earth, this warre can have no end. So that in my opinion God cannot send them a greater curse then their owne desires; for one vi<g ref="char:EOLhyphen"/>ctory doth in this case but summon a new enemy to rise up a<g ref="char:EOLhyphen"/>gainst them. But suppose that by many conquests they could confound all the Royall line as they desire? What receipt have these Rebells to perswade the free people of England to
+<pb n="6" facs="tcp:196819:5"/>subject themselves unto the tyranny of fellow subjects? or how can they hope to devide the government amongst them<g ref="char:EOLhyphen"/>selves so as to content all that have equally contributed unto the treason? For Religion (though it be of least consideration amongst them) is it yet agreed whose shall be established<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Which of the Lords Religion shall be preferr'd? or whose in the House of Commons shall prevaile? or must we expect an Hotch potch of all mixt, all alowed, and every man have liberty to choose what his pallate dictates him, as my Lord <hi>Say</hi> wishes? Certainly these men cannot propose unto them<g ref="char:EOLhyphen"/>selves peace that have lay'd a foundation onely capable to raise a continuall warre. All these things are more worthy, the consideration of the people of this land because all this will fall on their heads for the wicked contrivers sit specta<g ref="char:EOLhyphen"/>tors only of the stormes by them raised, farre enough from a<g ref="char:EOLhyphen"/>ny danger.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
